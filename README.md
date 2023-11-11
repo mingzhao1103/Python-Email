@@ -4,4 +4,4 @@
 
 - Report Preview
   
-https://htmlpreview.github.io/?https://github.com/mingzhao1103/Python_Email/blob/main/Email.html
+  https://htmlpreview.github.io/?https://github.com/mingzhao1103/Python_Email/blob/main/Email.html
